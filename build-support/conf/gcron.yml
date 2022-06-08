@@ -1,2 +1,8 @@
 server: true
 bootstrap-expect: 1
+profile: lan
+reconnect_timeout:
+node_name: test1
+tags:
+  name: sunchp
+bind: 127.0.0.1
